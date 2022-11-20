@@ -379,7 +379,7 @@ def addAnArticle(dblp):
         clear()
         print("Would you like to add an author.")
         print("Type Y to add an author.")
-        if input("Otherwise type anything else to continue: ") == 'Y':
+        if input("Type anything else to continue: ") == 'Y':
             authors.append(input("Type in the author name: "))
             print("Author added successfully.")
             input("Press ENTER to continue: ")
