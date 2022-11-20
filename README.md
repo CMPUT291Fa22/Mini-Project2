@@ -11,14 +11,11 @@ Jugal Patel | jugal2
 We did not collaborate with anyone else.
 
 # References
+I used this source to implement text search.
+https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like
 
-# User Guide
-1. Clone the project files from out [GitHub Repository](https://github.com/CMPUT291Fa22/Mini-Project2). There should be three files (clear.py, load-json.py, main.py).
+I used this source to implement regex.
+https://www.mongodb.com/docs/manual/reference/operator/query/regex/
 
-2. Download your test data (.json) and store them in this current directory. You can find sample test data [here](https://drive.google.com/drive/folders/1zNmdvcdtUYveR-74tvQYcTCmsf_FJXWT).
-
-3. Before running the program, make sure you have a MongoDB server running in the background. Make sure to remember the port number of the MongoDB server.
-
-4. To run the program, first run load-json.py and follow the instructions.
-
-5. Now you can run the program. Run main.py to start the program.
+I used this source to implement lookup.
+https://stackoverflow.com/questions/35813854/how-to-join-multiple-collections-with-lookup-in-mongodb
